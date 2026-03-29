@@ -1,0 +1,7 @@
+openai
+langchain
+streamlit
+langchain-openai
+langchain-groq
+pandas 
+numpy 
